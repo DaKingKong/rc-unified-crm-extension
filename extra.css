@@ -1,0 +1,11 @@
+.md-typeset a {
+    color: #066fac
+}
+.md-typeset a:hover {
+    color: #066fac;
+    text-decoration: underline;
+}
+
+:root {
+    --md-primary-fg-color: #002755;
+}
